@@ -5,27 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93df514f-8f2f-4069-a11b-0f17eb1291a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/IGeneralRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ICustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/IGeneralService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exercise-views-thymeleaf/product-management-thymeleaf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercise-views-thymeleaf/product-management-thymeleaf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -206,7 +204,10 @@
       <workItem from="1639621658726" duration="648000" />
       <workItem from="1639626292290" duration="2574000" />
       <workItem from="1639667693912" duration="1243000" />
-      <workItem from="1639704721937" duration="6374000" />
+      <workItem from="1639704721937" duration="6864000" />
+      <workItem from="1639716091171" duration="722000" />
+      <workItem from="1639726388281" duration="1282000" />
+      <workItem from="1639733091390" duration="785000" />
     </task>
     <servers />
   </component>
