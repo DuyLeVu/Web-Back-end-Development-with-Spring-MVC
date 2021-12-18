@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93df514f-8f2f-4069-a11b-0f17eb1291a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/config/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/repository/ICustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/java/service/ICustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customer-management-stored-procedure/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="93df514f-8f2f-4069-a11b-0f17eb1291a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -12,8 +12,7 @@ import service.ICustomerService;
 
 import java.util.List;
 
-@
-        Controller
+@Controller
 public class CustomerController {
 
     @Autowired
