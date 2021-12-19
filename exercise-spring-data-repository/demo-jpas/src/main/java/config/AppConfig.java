@@ -133,7 +133,7 @@ public class AppConfig implements WebMvcConfigurer, ApplicationContextAware {
     }
 
     @Bean
-    public ProductService productService(){
+    public IProductService productService(){
         return new ProductService();
     }
 }
