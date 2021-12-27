@@ -25,7 +25,6 @@ public class CustomerController {
         }
         return new ResponseEntity<>(customers, HttpStatus.OK);
     }
-
     @GetMapping("/{id}")
     public ResponseEntity<Customer> findCustomerById(@PathVariable Long id) {
         Optional<Customer> customerOptional = customerService.findById(id);
